@@ -45,3 +45,4 @@ xrdb: can't open file '/home/user/.Xresources'
 21/10/25 19:12:21 rfbProcessClientNormalMessage: ignoring unknown encoding 1109
 21/10/25 19:12:21 rfbProcessClientNormalMessage: ignoring unknown encoding 1110
 22/10/25 03:00:45 KbdAddEvent: unknown KeySym 0xb8 - allocating KeyCode 89
+22/10/25 05:26:29 KbdAddEvent: unknown KeySym 0xffe5 - allocating KeyCode 90
