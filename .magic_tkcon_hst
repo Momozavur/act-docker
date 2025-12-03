@@ -1,48 +1,48 @@
-::tkcon::EvalSlave history add save
-::tkcon::EvalSlave history add extract
-::tkcon::EvalSlave history add {ext2sim alias on}
-::tkcon::EvalSlave history add ext2sim
-::tkcon::EvalSlave history add save
-::tkcon::EvalSlave history add save
-::tkcon::EvalSlave history add extract
-::tkcon::EvalSlave history add {ext2sim alias on}
-::tkcon::EvalSlave history add ext2sim
-::tkcon::EvalSlave history add save
-::tkcon::EvalSlave history add extract
-::tkcon::EvalSlave history add {ext2sim alias on}
-::tkcon::EvalSlave history add ext2sim
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add box
+::tkcon::EvalSlave history add box
+::tkcon::EvalSlave history add box
+::tkcon::EvalSlave history add {label out}
+::tkcon::EvalSlave history add {label Vdd!}
+::tkcon::EvalSlave history add {label GND!}
+::tkcon::EvalSlave history add {erase label}
+::tkcon::EvalSlave history add {erase polysilicon}
+::tkcon::EvalSlave history add {erase metal1}
+::tkcon::EvalSlave history add {erase metal1}
+::tkcon::EvalSlave history add {erase metal1}
+::tkcon::EvalSlave history add {erase metal1}
+::tkcon::EvalSlave history add {erase metal1}
+::tkcon::EvalSlave history add {erase metal1}
+::tkcon::EvalSlave history add {label Vdd!}
+::tkcon::EvalSlave history add {label out}
+::tkcon::EvalSlave history add {label GND!}
+::tkcon::EvalSlave history add {erase label}
 ::tkcon::EvalSlave history add {erase polysilicon}
 ::tkcon::EvalSlave history add {erase polysilicon}
-::tkcon::EvalSlave history add save
-::tkcon::EvalSlave history add save
-::tkcon::EvalSlave history add save
-::tkcon::EvalSlave history add extract
-::tkcon::EvalSlave history add {ext2sim alias on}
-::tkcon::EvalSlave history add ext2sim
-::tkcon::EvalSlave history add expand
-::tkcon::EvalSlave history add expand
-::tkcon::EvalSlave history add expand
-::tkcon::EvalSlave history add expand
-::tkcon::EvalSlave history add extract
-::tkcon::EvalSlave history add ext
-::tkcon::EvalSlave history add extract
-::tkcon::EvalSlave history add mark
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
+::tkcon::EvalSlave history add {label b}
+::tkcon::EvalSlave history add {label Vdd!}
+::tkcon::EvalSlave history add {label out}
+::tkcon::EvalSlave history add {label GND!}
+::tkcon::EvalSlave history add {erase metal1}
+::tkcon::EvalSlave history add {erase polysilicon}
+::tkcon::EvalSlave history add {erase label}
+::tkcon::EvalSlave history add {label Vdd!}
+::tkcon::EvalSlave history add {label out}
+::tkcon::EvalSlave history add {label GND!}
+::tkcon::EvalSlave history add {erase label}
+::tkcon::EvalSlave history add {label Vdd!}
+::tkcon::EvalSlave history add {label out}
+::tkcon::EvalSlave history add {label GND!}

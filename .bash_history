@@ -1,4 +1,3 @@
-                                                                                                  �  ��
                                                                                                       �  ���
                                                                                                            �  ���
                                                                                                                 �  u'�
@@ -498,3 +497,4 @@ ext2sim alias on
 ext2sim
 ls
 vim addsub.irsim 
+vncserver
