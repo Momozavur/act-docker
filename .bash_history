@@ -1,12 +1,3 @@
-                                                                                                      �  ���
-                                                                                                           �  ���
-                                                                                                                �  u'�
-                                                                                                                     �  ^9�
-                                                                                                                          �  �m�
-                                                                                                                               �  �s�
-                                                                                                                                    �  V��
-  �  }��
-       �  ��
            �  ں�
                �  {�
                    �  3e�
@@ -498,3 +489,12 @@ ext2sim
 ls
 vim addsub.irsim 
 vncserver
+magic -T SCN6M_DEEP.09
+magic -T SCN6M_DEEP.09
+magic -T SCN6M_DEEP.09
+magic -T SCN6M_DEEP.09
+magic -T SCN6M_DEEP.09
+magic -T SCN6M_DEEP.09
+c
+quit
+exit
