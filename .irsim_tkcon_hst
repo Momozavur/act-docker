@@ -1,7 +1,3 @@
-::tkcon::EvalSlave history add @
-::tkcon::EvalSlave history add {ana a0 a1 b0 b1 cin s1 s2 cout}
-::tkcon::EvalSlave history add {h Vdd!}
-::tkcon::EvalSlave history add {l GND!}
 ::tkcon::EvalSlave history add {l a0}
 ::tkcon::EvalSlave history add {l a1}
 ::tkcon::EvalSlave history add {l b0}
@@ -46,3 +42,7 @@
 ::tkcon::EvalSlave history add {@ addsub.irsim}
 ::tkcon::EvalSlave history add {@ addsub.irsim}
 ::tkcon::EvalSlave history add {@ addsub.irsim}
+::tkcon::EvalSlave history add rom_test.irsim
+::tkcon::EvalSlave history add {@ rom_test.irsim}
+::tkcon::EvalSlave history add {@ rom_test.irsim}
+::tkcon::EvalSlave history add {@ rom_test.irsim}

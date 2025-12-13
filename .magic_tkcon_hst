@@ -7,10 +7,6 @@
 ::tkcon::EvalSlave history add measure
 ::tkcon::EvalSlave history add measure
 ::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
-::tkcon::EvalSlave history add measure
 ::tkcon::EvalSlave history add box
 ::tkcon::EvalSlave history add box
 ::tkcon::EvalSlave history add box
@@ -46,3 +42,7 @@
 ::tkcon::EvalSlave history add {label out}
 ::tkcon::EvalSlave history add {label GND!}
 ::tkcon::EvalSlave history add save
+::tkcon::EvalSlave history add save
+::tkcon::EvalSlave history add save
+::tkcon::EvalSlave history add зз4а
+::tkcon::EvalSlave history add ссс3333
