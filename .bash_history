@@ -1,4 +1,3 @@
-           �  ں�
                �  {�
                    �  3e�
                         �  �1�
@@ -498,3 +497,4 @@ magic -T SCN6M_DEEP.09
 c
 quit
 exit
+vncserver

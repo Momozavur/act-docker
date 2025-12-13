@@ -1,0 +1,52 @@
+13/12/25 20:04:53 Xvnc version TightVNC-1.3.10
+13/12/25 20:04:53 Copyright (C) 2000-2009 TightVNC Group
+13/12/25 20:04:53 Copyright (C) 1999 AT&T Laboratories Cambridge
+13/12/25 20:04:53 All Rights Reserved.
+13/12/25 20:04:53 See http://www.tightvnc.com/ for information on TightVNC
+13/12/25 20:04:53 Desktop name 'X' (6d5d07433847:1)
+13/12/25 20:04:53 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+13/12/25 20:04:53 Listening for VNC connections on TCP port 5901
+Font directory '/usr/share/fonts/X11/Type1/' not found - ignoring
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+Font directory '/usr/share/fonts/X11/100dpi/' not found - ignoring
+xrdb: No such file or directory
+xrdb: can't open file '/home/user/.Xresources'
+
+13/12/25 20:05:15 Got connection from client 192.168.65.1
+13/12/25 20:05:15 Using protocol version 3.3
+13/12/25 20:05:17 Client 192.168.65.1 gone
+13/12/25 20:05:17 Statistics:
+13/12/25 20:05:17   framebuffer updates 0, rectangles 0, bytes 0
+
+13/12/25 20:05:17 Got connection from client 192.168.65.1
+13/12/25 20:05:17 Using protocol version 3.3
+13/12/25 20:05:17 Full-control authentication passed by 192.168.65.1
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1011
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1002
+13/12/25 20:05:17 Using zlib encoding for client 192.168.65.1
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+13/12/25 20:05:17 Enabling full-color cursor updates for client 192.168.65.1
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1104
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1100
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1101
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1105
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1107
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1109
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1110
+13/12/25 20:05:17 Pixel format for client 192.168.65.1:
+13/12/25 20:05:17   32 bpp, depth 32, little endian
+13/12/25 20:05:17   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1011
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1002
+13/12/25 20:05:17 Using zlib encoding for client 192.168.65.1
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+13/12/25 20:05:17 Enabling full-color cursor updates for client 192.168.65.1
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1104
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1100
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1101
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1105
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1107
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1109
+13/12/25 20:05:17 rfbProcessClientNormalMessage: ignoring unknown encoding 1110
